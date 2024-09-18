@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "koGmLKBR6wJhBLTN1OoI6FzGeJiAPNWbDjy33J5YenLAJHGwnEo6Ux/28C8eaBjdEIfv8DSjhatgCExrp1KcrA==",
+  "dgSpecHash": "/6gJAaHzq7NsW/HvORWARpxWB9Qa/P5Y7DJlIQIj9DGGKzRQnjxQ5TtttsTnh4dl1W+u9n+nAjZTsJjuYeUhgA==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jarmstrong/Desktop/repos/ORM-and-Dapper-Exercise/ORM-Dapper/ORM-Dapper.csproj",
+  "expectedPackageFiles": [
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
